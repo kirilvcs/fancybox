@@ -1,5 +1,5 @@
 (function(window, document, $, undefined) {
-  "use strict";
+  // "use strict";
 
   window.console = window.console || {
     info: function(stuff) {}
